@@ -1,0 +1,17 @@
+.app-container {
+  background-color: #09ff00;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  color: #000000;
+  text-align: center;
+}

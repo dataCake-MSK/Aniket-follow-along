@@ -1,12 +1,10 @@
-import { Container, Box } from "@mui/material";
+import "./App.css";
 
 export default function App() {
   return (
-    <Box sx={{ flexGrow: 4 }}>
-      <Container>
-        <h1>HACKERSHRINE</h1>
-        <p>File Upload Application</p>
-      </Container>
-    </Box>
+    <div className="app-container">
+      <h1>Minsung</h1>
+      <p>File Upload Application</p>
+    </div>
   );
 }
